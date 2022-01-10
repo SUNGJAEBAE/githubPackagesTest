@@ -1,5 +1,5 @@
 {
-  "name": "@SUNGJAEBAE/GithubPackagesTest",
+  "name": "@sungjaebae/githubpackagestest",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SUNGJAEBAE/githubPackagesTest.git"
+    "url": "git+https://github.com/sungjaebae/githubPackagesTest.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SUNGJAEBAE/githubPackagesTest/issues"
+    "url": "https://github.com/sungjaebae/githubPackagesTest/issues"
   },
-  "homepage": "https://github.com/SUNGJAEBAE/githubPackagesTest#readme",
+  "homepage": "https://github.com/sungjaebae/githubPackagesTest#readme",
   "publishConfig": {
     "@SUNGJAEBAE:registry": "https://npm.pkg.github.com"
   }
