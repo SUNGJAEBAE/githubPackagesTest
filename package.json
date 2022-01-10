@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SUNGJAEBAE/githubPackagesTest/issues"
   },
-  "homepage": "https://github.com/SUNGJAEBAE/githubPackagesTest#readme"
+  "homepage": "https://github.com/SUNGJAEBAE/githubPackagesTest#readme",
+  "publishConfig": {
+    "@SUNGJAEBAE:registry": "https://npm.pkg.github.com"
+  }
 }
